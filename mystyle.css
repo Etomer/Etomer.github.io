@@ -1,12 +1,12 @@
 h1 {
-  color : red;
+  color : blue;
 }
 
-chess_set {
+#chess_set {
   wdith : 50 %;
 }
 
-chess_set:hover{
+#chess_set:hover{
   border-style: solid;
   border-color: red;
   border-radius: 3px
