@@ -1,9 +1,9 @@
 h1 {
-  color : blue;
+  color : red;
 }
 
 #chess_set {
-  wdith : 50%;
+  wdith : 50vw;
 }
 
 #chess_set:hover{
