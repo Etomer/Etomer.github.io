@@ -1,3 +1,13 @@
 h1 {
-  color : red
+  color : red;
+}
+
+chess_set {
+  wdith : 50 %;
+}
+
+chess_set:hover{
+  border-style: solid;
+  border-color: red;
+  border-radius: 3px
 }
