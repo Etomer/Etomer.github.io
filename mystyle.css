@@ -3,11 +3,11 @@ h1 {
 }
 
 #chess_set {
-  wdith : 50 %;
+  wdith : 50%;
 }
 
 #chess_set:hover{
   border-style: solid;
   border-color: red;
-  border-radius: 3px
+  border-radius: 3px;
 }
